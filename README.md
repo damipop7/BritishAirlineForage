@@ -11,7 +11,7 @@ I also scraped data from the web (Skytrax) and collected customer feedback by an
 ### Task 2: Predicting Customer buying behavior 
 In this task, I learned How using data and predictive models helps British Airways acquire customers before they embark on their holidays. 
 Customers are more empowered than ever because they have access to a wealth of information at their fingertips. British Airways tries to be proactive to acquire customers before they embark on their holiday.
-I spent some time exploring the dataset to understand the different columns and some basic statistics of the dataset, trained a machine learning model to predict the target outcome, which is a customer making a booking, and evaluated how well it performed by conducting cross-validation and outputting appropriate evaluation metrics. Finally, my findings were summarized for presentation using PowerPoint/ Keynote. 
+I spent some time exploring the dataset to understand the different columns and some basic statistics of the dataset, trained a machine learning model to predict the target outcome, which is a customer making a booking, and evaluated how well it performed by conducting cross-validation and outputting appropriate evaluation metrics. Finally, my findings were summarized for presentation using PowerPoint/ Keynote. [Findings2](https://github.com/damipop7/BritishAirlineForage/blob/main/assets/Presentation%20Template%20-%20Task%202.key)
 
 
 
